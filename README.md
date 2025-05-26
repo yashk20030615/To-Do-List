@@ -3,7 +3,7 @@ This is a simple To-Do List project built using **HTML**,**CSS** & **JavaScript*
 ## Features
 - Add and Delete tasks
 - Shows an error if input is empty
-- CLean and responsive UI
+- Clean and responsive UI
 ## Live Demo
 (https://yashk20030615.github.io/To-Do-List/)
 ## Author
