@@ -5,6 +5,6 @@ This is a simple To-Do List project built using **HTML**,**CSS** & **JavaScript*
 - Shows an error if input is empty
 - Clean and responsive UI
 ## Live Demo
-(https://yashk20030615.github.io/To-Do-List/)
+(https://yashk20030615.github.io/To-Do-List---Js/)
 ## Author
 Yash Kumar Gandhir(GitHub: @yashk20030615)
